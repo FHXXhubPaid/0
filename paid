@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "FHXX HUB | Paid | South Bronx",
+   Name = "FHXX HUB | Paid | South Bronx: The Trenches❗",
    LoadingTitle = "FHXX's Paid Script",
    LoadingSubtitle = "Made By FHXX",
    ConfigurationSaving = {
