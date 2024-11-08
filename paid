@@ -434,8 +434,6 @@ runService.RenderStepped:Connect(function()
     end,
  })
 
- local Paragraph = InfoTab:CreateParagraph({Title = "FHXX HUB", Content = "this was a test script but it got good so i made it my main and i wanted to make it public it for free and then i made a discord server and i got 150 members and i made it paid"})
-
 local Button = ESPTab:CreateButton({
    Name = "ESP ShowGuns By SergiuPro",
    Callback = function()
